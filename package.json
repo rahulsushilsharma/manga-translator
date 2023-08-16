@@ -1,0 +1,23 @@
+{
+  "name": "chat-to-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.0",
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.3.1",
+    "tesseract.js": "^4.1.1"
+  }
+}
